@@ -12,6 +12,7 @@
 		C9CABE9823D95BA800E453DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9CABE9623D95BA800E453DD /* Main.storyboard */; };
 		C9CABE9A23D95BAB00E453DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9CABE9923D95BAB00E453DD /* Assets.xcassets */; };
 		C9CABE9D23D95BAB00E453DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9CABE9B23D95BAB00E453DD /* LaunchScreen.storyboard */; };
+		C9CABEA523D95CA100E453DD /* UUU.m4a in Resources */ = {isa = PBXBuildFile; fileRef = C9CABEA423D95CA100E453DD /* UUU.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C9CABE9923D95BAB00E453DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C9CABE9C23D95BAB00E453DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C9CABE9E23D95BAB00E453DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9CABEA423D95CA100E453DD /* UUU.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = UUU.m4a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		C9CABE8623D95BA800E453DD = {
 			isa = PBXGroup;
 			children = (
+				C9CABEA423D95CA100E453DD /* UUU.m4a */,
 				C9CABE9123D95BA800E453DD /* trimAudio */,
 				C9CABE9023D95BA800E453DD /* Products */,
 			);
@@ -125,6 +128,7 @@
 				C9CABE9D23D95BAB00E453DD /* LaunchScreen.storyboard in Resources */,
 				C9CABE9A23D95BAB00E453DD /* Assets.xcassets in Resources */,
 				C9CABE9823D95BA800E453DD /* Main.storyboard in Resources */,
+				C9CABEA523D95CA100E453DD /* UUU.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
